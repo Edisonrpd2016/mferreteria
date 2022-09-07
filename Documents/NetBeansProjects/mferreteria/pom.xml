@@ -74,4 +74,9 @@
             </plugin>
         </plugins>
     </build>
+    <modules>
+        <module>mferreteria-ear</module>
+        <module>mferreteria-ejb</module>
+        <module>mferreteria-web</module>
+    </modules>
 </project>
